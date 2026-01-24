@@ -1,6 +1,6 @@
 # Logistics-AI-Automation-Bot.
 
-# EA Bot: Operations & Logistics Automation
+# EA Bot: Operations & Logistics Automation.
 
 This repository contains the architecture and evidence for an automation system designed to eliminate manual tasks and human error in high-stake operational workflows.
 
