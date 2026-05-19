@@ -1,4 +1,4 @@
-# Logistics-AI-Automation-Bot.
+# Logistics AI Automation Bot.
 
 # EA Bot: Operations & Logistics Automation.
 
